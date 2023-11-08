@@ -1,0 +1,14 @@
+{
+    "development": {
+      "storage": "student.sqlite",
+      "dialect": "sqlite"
+    },
+    "production": {
+      "username": "clara",
+      "host": "student-sign-in-database-server.database.windows.net",
+      "database": "student-sign-in-databse",
+      "dialect": "mssql"
+    }
+  }
+  
+
