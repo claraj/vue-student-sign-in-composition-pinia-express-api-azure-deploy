@@ -4,11 +4,11 @@
       "dialect": "sqlite"
     },
     "production": {
-      "username": "clara",
-      "host": "student-sign-in-database-server.database.windows.net",
-      "database": "student-sign-in-databse",
+      "username": "YOUR_USERNAME",
+      "host": "YOUR_DATABASE_SERVER.database.windows.net",
+      "database": "YOUR_DATABASE",
       "dialect": "mssql"
     }
   }
   
-
+  
